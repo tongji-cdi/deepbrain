@@ -3,7 +3,7 @@
 [![PyPI - Version](https://img.shields.io/pypi/v/omniduct.svg)](https://pypi.org/project/deepbrain/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/deepbrain.svg)
 
-> Brain image processing tools using Deep Learning focused on speed and accuracy.
+> Brain image processing tools using Deep Learning focused on speed and accuracy. ***This is a fork of the original deepbrain which has not been updated since 2018 - changed the initial imports to use tensorflow.compat.v1 ***
 
 ### How to install
 
