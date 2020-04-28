@@ -5,10 +5,10 @@
 
 > Brain image processing tools using Deep Learning focused on speed and accuracy. ***This is a fork of the original deepbrain which has not been updated since 2018 - changed the initial imports to use tensorflow.compat.v1 ***
 
-### How to install
+### How to install - directly from github instead of PyPI
 
 ```bash
-$ pip install deepbrain
+$ pip install git+https://github.com/rockstreamguy/deepbrain.git#egg=deepbrain
 ```
 
 #### Available tools:
