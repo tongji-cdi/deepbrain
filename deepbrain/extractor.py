@@ -5,7 +5,7 @@ import numpy as np
 from skimage.transform import resize
 import os
 
-PB_FILE = os.path.join(os.path.dirname(__file__), "models", "extractor", "graph_v2.pb")
+PB_FILE = os.path.join(os.path.dirname(__file__), "models", "graph_v2.pb")
 CHECKPOINT_DIR = os.path.join(os.path.dirname(__file__), "models", "extractor", "v2")
 
 
